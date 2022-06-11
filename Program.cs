@@ -14,6 +14,7 @@ namespace ProGitForProgrammers
             Console.WriteLine("Hello GitHub!");
             Console.WriteLine("A rainy date");
             Console.WriteLine("A rainy date");
+            Console.WriteLine("A cloudy date this afternoon");
         }
     }
 }
