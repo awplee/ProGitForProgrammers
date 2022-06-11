@@ -13,6 +13,7 @@ namespace ProGitForProgrammers
             Console.WriteLine("This line added to show the staging area");
             Console.WriteLine("Hello GitHub!");
             Console.WriteLine("A rainy date");
+            Console.WriteLine("A rainy date");
         }
     }
 }
